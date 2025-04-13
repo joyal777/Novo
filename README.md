@@ -52,36 +52,16 @@
 
 ## 📸 Screenshots
 
-<!-- First Image Full Width -->
-<div class="w-full overflow-hidden mb-4">
-  <img src="https://github.com/joyal777/Novo/blob/main/images/main.png?raw=true" alt="Dashboard" class="w-full h-auto">
-</div>
-
-<!-- Images in a Row with Alpine.js for Slider Functionality -->
-<div x-data="{ currentImage: 0, images: [
-  'https://github.com/joyal777/Novo/blob/main/images/login.png?raw=true',
-  'https://github.com/joyal777/Novo/blob/main/images/register.png?raw=true',
-  'https://github.com/joyal777/Novo/blob/main/images/api-first.png?raw=true',
-  'https://github.com/joyal777/Novo/blob/main/images/dashboard.png?raw=true',
-  'https://github.com/joyal777/Novo/blob/main/images/dashboard-showfav.png?raw=true',
-  'https://github.com/joyal777/Novo/blob/main/images/favorites.png?raw=true',
-  'https://github.com/joyal777/Novo/blob/main/images/profile.png?raw=true',
-  'https://github.com/joyal777/Novo/blob/main/images/api-upd.png?raw=true'
-] }">
-  <div class="flex overflow-x-scroll space-x-4">
-    <template x-for="(image, index) in images" :key="index">
-      <div class="flex-shrink-0">
-        <img :src="image" alt="Screenshot" class="w-32 h-32 object-cover rounded-lg cursor-pointer" 
-             @click="currentImage = index" />
-      </div>
-    </template>
-  </div>
-
-  <!-- Image Viewer (Click to enlarge) -->
-  <div class="mt-4">
-    <img :src="images[currentImage]" alt="Full-size screenshot" class="w-full h-auto rounded-lg border">
-  </div>
-</div>
+<!-- Upload screenshots to GitHub or Imgur and replace the links below -->
+![Dashboard](https://github.com/joyal777/Novo/blob/main/images/main.png?raw=true)
+![Login](https://github.com/joyal777/Novo/blob/main/images/login.png?raw=true)
+![Register](https://github.com/joyal777/Novo/blob/main/images/register.png?raw=true)
+![API First](https://github.com/joyal777/Novo/blob/main/images/api-first.png?raw=true)
+![Dashboard](https://github.com/joyal777/Novo/blob/main/images/dashboard.png?raw=true)
+![Show Favorites](https://github.com/joyal777/Novo/blob/main/images/dashboard-showfav.png?raw=true)
+![Favorites](https://github.com/joyal777/Novo/blob/main/images/favorites.png?raw=true)
+![Profile](https://github.com/joyal777/Novo/blob/main/images/profile.png?raw=true)
+![API Update](https://github.com/joyal777/Novo/blob/main/images/api-upd.png?raw=true)
 
 
 ---
