@@ -52,17 +52,15 @@
 ## 📸 Screenshots
 
 <!-- Upload screenshots to GitHub or Imgur and replace the links below -->
-![Dashboard]([https://your-image-link.com/dashboard.png](https://github.com/joyal777/Novo/blob/main/images/main.png))
-![Dashboard]([https://your-image-link.com/dashboard.png](https://github.com/joyal777/Novo/blob/main/images/login.png))
-![Dashboard]([https://your-image-link.com/dashboard.png](https://github.com/joyal777/Novo/blob/main/images/register.png))
-![Dashboard]([https://your-image-link.com/dashboard.png](https://github.com/joyal777/Novo/blob/main/images/api-first.png))
-![Dashboard]([https://your-image-link.com/dashboard.png](https://github.com/joyal777/Novo/blob/main/images/dashboard.png))
-![Dashboard]([https://your-image-link.com/dashboard.png](https://github.com/joyal777/Novo/blob/main/images/dashboard.png))
-![Dashboard]([https://your-image-link.com/dashboard.png](https://github.com/joyal777/Novo/blob/main/images/dashboard-showfav.png))
-![Dashboard]([https://your-image-link.com/dashboard.png](https://github.com/joyal777/Novo/blob/main/images/favorites.png))
-![Dashboard]([https://your-image-link.com/dashboard.png](https://github.com/joyal777/Novo/blob/main/images/profile.png))
-![Dashboard]([https://your-image-link.com/dashboard.png](https://github.com/joyal777/Novo/blob/main/images/api-upd.png))
-![Dashboard]([https://your-image-link.com/dashboard.png](https://github.com/joyal777/Novo/blob/main/images/main.png))
+![Dashboard](https://github.com/joyal777/Novo/blob/main/images/main.png?raw=true)
+![Login](https://github.com/joyal777/Novo/blob/main/images/login.png?raw=true)
+![Register](https://github.com/joyal777/Novo/blob/main/images/register.png?raw=true)
+![API First](https://github.com/joyal777/Novo/blob/main/images/api-first.png?raw=true)
+![Dashboard](https://github.com/joyal777/Novo/blob/main/images/dashboard.png?raw=true)
+![Show Favorites](https://github.com/joyal777/Novo/blob/main/images/dashboard-showfav.png?raw=true)
+![Favorites](https://github.com/joyal777/Novo/blob/main/images/favorites.png?raw=true)
+![Profile](https://github.com/joyal777/Novo/blob/main/images/profile.png?raw=true)
+![API Update](https://github.com/joyal777/Novo/blob/main/images/api-upd.png?raw=true)
 
 ---
 
