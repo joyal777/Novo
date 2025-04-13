@@ -65,8 +65,33 @@
 ---
 
 ## 🔧 Setup & Installation
+requirements : 
+    xampp supports php 8+
+    composer 2
 
-1. Clone the repo:
+    extra setup : inside xampp/php/php.ini enable some extensions if not (openssl,pdo..ect)
+Clone the repo:
    ```bash
    git clone https://github.com/your-username/novo.git
    cd novo
+or
+    download zip and extract it in xampp inside htdocs folder 
+   
+
+Install dependencies
+    composer install
+    
+Install frontend dependencies
+    npm install
+    npm run dev
+    
+Copy .env file
+    cp .env.example .env (optional)
+    
+Generate app key
+    php artisan key:generate
+    
+Set up the database:
+You may need to manually create the database if it doesn't exist:
+    echo "Please create the 'novo' MySQL database manually or ensure it exists. get the .sql from project folder"
+    echo "Update the .env file with the correct DB credentials (DB_USERNAME, DB_PASSWORD)"
