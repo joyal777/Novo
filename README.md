@@ -48,6 +48,22 @@
 - 🖼️ Beautiful UI with Alpine & Tailwind
 
 ---
+
+
+## 📸 Screenshots
+
+<!-- Upload screenshots to GitHub or Imgur and replace the links below -->
+![Dashboard](https://github.com/joyal777/Novo/blob/main/images/main.png?raw=true)
+![Login](https://github.com/joyal777/Novo/blob/main/images/login.png?raw=true)
+![Register](https://github.com/joyal777/Novo/blob/main/images/register.png?raw=true)
+![API First](https://github.com/joyal777/Novo/blob/main/images/api-first.png?raw=true)
+![Dashboard](https://github.com/joyal777/Novo/blob/main/images/dashboard.png?raw=true)
+![Show Favorites](https://github.com/joyal777/Novo/blob/main/images/dashboard-showfav.png?raw=true)
+![Favorites](https://github.com/joyal777/Novo/blob/main/images/favorites.png?raw=true)
+![Profile](https://github.com/joyal777/Novo/blob/main/images/profile.png?raw=true)
+![API Update](https://github.com/joyal777/Novo/blob/main/images/api-upd.png?raw=true)
+
+---
 ## 🔧 Setup & Installation
 requirements : 
     xampp supports php 8+
@@ -79,20 +95,4 @@ Set up the database:
 You may need to manually create the database if it doesn't exist:
     echo "Please create the 'novo' MySQL database manually or ensure it exists. get the .sql from project folder"
     echo "Update the .env file with the correct DB credentials (DB_USERNAME, DB_PASSWORD)"
-
-## 📸 Screenshots
-
-<!-- Upload screenshots to GitHub or Imgur and replace the links below -->
-![Dashboard](https://github.com/joyal777/Novo/blob/main/images/main.png?raw=true)
-![Login](https://github.com/joyal777/Novo/blob/main/images/login.png?raw=true)
-![Register](https://github.com/joyal777/Novo/blob/main/images/register.png?raw=true)
-![API First](https://github.com/joyal777/Novo/blob/main/images/api-first.png?raw=true)
-![Dashboard](https://github.com/joyal777/Novo/blob/main/images/dashboard.png?raw=true)
-![Show Favorites](https://github.com/joyal777/Novo/blob/main/images/dashboard-showfav.png?raw=true)
-![Favorites](https://github.com/joyal777/Novo/blob/main/images/favorites.png?raw=true)
-![Profile](https://github.com/joyal777/Novo/blob/main/images/profile.png?raw=true)
-![API Update](https://github.com/joyal777/Novo/blob/main/images/api-upd.png?raw=true)
-
----
-
 
