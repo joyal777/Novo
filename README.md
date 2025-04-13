@@ -52,9 +52,17 @@
 ## 📸 Screenshots
 
 <!-- Upload screenshots to GitHub or Imgur and replace the links below -->
-![Dashboard](https://your-image-link.com/dashboard.png)
-![Search Movies](https://your-image-link.com/search.png)
-![Favorites](https://your-image-link.com/favorites.png)
+![Dashboard]([https://your-image-link.com/dashboard.png](https://github.com/joyal777/Novo/blob/main/images/main.png))
+![Dashboard]([https://your-image-link.com/dashboard.png](https://github.com/joyal777/Novo/blob/main/images/login.png))
+![Dashboard]([https://your-image-link.com/dashboard.png](https://github.com/joyal777/Novo/blob/main/images/register.png))
+![Dashboard]([https://your-image-link.com/dashboard.png](https://github.com/joyal777/Novo/blob/main/images/api-first.png))
+![Dashboard]([https://your-image-link.com/dashboard.png](https://github.com/joyal777/Novo/blob/main/images/dashboard.png))
+![Dashboard]([https://your-image-link.com/dashboard.png](https://github.com/joyal777/Novo/blob/main/images/dashboard.png))
+![Dashboard]([https://your-image-link.com/dashboard.png](https://github.com/joyal777/Novo/blob/main/images/dashboard-showfav.png))
+![Dashboard]([https://your-image-link.com/dashboard.png](https://github.com/joyal777/Novo/blob/main/images/favorites.png))
+![Dashboard]([https://your-image-link.com/dashboard.png](https://github.com/joyal777/Novo/blob/main/images/profile.png))
+![Dashboard]([https://your-image-link.com/dashboard.png](https://github.com/joyal777/Novo/blob/main/images/api-upd.png))
+![Dashboard]([https://your-image-link.com/dashboard.png](https://github.com/joyal777/Novo/blob/main/images/main.png))
 
 ---
 
